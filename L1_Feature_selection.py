@@ -1,4 +1,4 @@
-__author__ = 'jliu2188'
+__author__ = 'Jdeep'
 import numpy as np
 from sklearn.svm import LinearSVC
 from sklearn.datasets import make_classification
